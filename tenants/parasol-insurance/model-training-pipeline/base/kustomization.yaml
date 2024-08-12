@@ -9,3 +9,4 @@ resources:
   - model-retrain-pipelinerun.yaml
   - model-retrain-rbac.yaml
   - execute-kfp-task.yaml
+  
