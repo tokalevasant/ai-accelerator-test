@@ -4,7 +4,7 @@ metadata:
   name: model-retrain
 spec:
   params:
-    - default: 'https://github.com/tokalevasant/ai-accelerator-bootcamp.git'
+    - default: 'https://github.com/redhat-ai-services/ai-accelerator-bootcamp.git'
       description: Repo URL
       name: GIT_URL
       type: string
